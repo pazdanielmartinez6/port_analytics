@@ -1,0 +1,16 @@
+route_key,route_code,route_name,trade_lane,origin_region,destination_region,avg_transit_days
+1,ATA,Asia-Trans-Atlantic,Asia-Americas,East Asia,North America,28
+2,TAE,Trans-Atlantic Eastbound,Trans-Atlantic,North America,Europe,14
+3,TAW,Trans-Atlantic Westbound,Trans-Atlantic,Europe,North America,14
+4,ASM,Asia-Mediterranean,Asia-Europe,East Asia,Southern Europe,25
+5,MAS,Mediterranean-Asia,Asia-Europe,Southern Europe,East Asia,25
+6,IMD,Intra-Mediterranean,Intra-Europe,Southern Europe,Southern Europe,5
+7,MEA,Mediterranean-East Africa,Med-Africa,Southern Europe,East Africa,12
+8,MEW,Mediterranean-West Africa,Med-Africa,Southern Europe,West Africa,10
+9,NER,North Europe-Mediterranean,Intra-Europe,Northern Europe,Southern Europe,6
+10,ANE,Americas-North Europe,Trans-Atlantic,Americas,Northern Europe,12
+11,MEG,Mediterranean-Middle East,Med-Middle East,Southern Europe,Middle East,10
+12,PSW,Pacific Southwest,Trans-Pacific,East Asia,North America,16
+13,ISC,Indian Subcontinent-Med,South Asia-Europe,South Asia,Southern Europe,20
+14,SAM,South America-Mediterranean,Americas-Europe,South America,Southern Europe,18
+15,CST,Coastal/Domestic,Domestic,Domestic,Domestic,2

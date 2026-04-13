@@ -1,0 +1,201 @@
+vessel_key,imo_number,vessel_name,vessel_type,flag_country,built_year,gross_tonnage,deadweight_tonnes,teu_capacity,loa_meters,ship_size_class_key
+1,9000097,ZIM Horizon,Container Ship,Greece,2008,1654,2301,1142,161,2
+2,9000194,Maersk Zephyr,Container Ship,Bahamas,2000,554,997,538,155,1
+3,9000291,MOL Ranger,RoRo Vessel,Panama,2013,35073,46618,0,185,1
+4,9000388,CMA CGM Genova,Container Ship,Liberia,2004,1771,3091,1781,168,2
+5,9000485,ONE Rotterdam,Bulk Carrier,Singapore,2001,49567,85284,0,192,3
+6,9000582,Maersk Nebula,Container Ship,Panama,2020,11008,15160,7962,232,4
+7,9000679,ZIM Voyager,RoRo Vessel,Hong Kong,2002,41788,64785,0,162,3
+8,9000776,ZIM Antwerp,Container Ship,Liberia,2011,1826,2534,1273,163,2
+9,9000873,PIL Swift,Container Ship,Greece,2023,2073,2600,1473,165,2
+10,9000970,Evergreen Vanguard,Container Ship,Liberia,2001,1384,2129,1032,160,2
+11,9001067,Evergreen Triton,General Cargo,Hong Kong,2010,7765,11967,0,163,1
+12,9001164,CMA CGM Victory,Container Ship,China,2023,9506,14467,7152,224,4
+13,9001261,Hapag Antwerp,Container Ship,Marshall Islands,2004,8918,11654,5744,209,4
+14,9001358,ZIM Meridian,RoRo Vessel,Hong Kong,2013,23217,33216,0,198,2
+15,9001455,HMM Victory,Tanker,Greece,2000,19661,27291,0,114,1
+16,9001552,COSCO Ranger,Container Ship,Malta,2009,4233,5795,3858,190,3
+17,9001649,HMM Apex,Container Ship,Bahamas,2003,17597,25997,12444,279,5
+18,9001746,CMA CGM Antwerp,RoRo Vessel,Hong Kong,2017,29918,42757,0,150,3
+19,9001843,MSC Horizon,General Cargo,China,2009,7838,12846,0,107,1
+20,9001940,Maersk Orion,RoRo Vessel,Hong Kong,2002,24978,42911,0,166,3
+21,9002037,HMM Meridian,Container Ship,Bahamas,2019,4554,6164,2867,179,3
+22,9002134,MOL Excellence,Container Ship,Bahamas,2021,12123,18290,8588,239,4
+23,9002231,Evergreen Atlas,Container Ship,Panama,2018,9221,16243,9820,252,4
+24,9002328,Evergreen Atlas 5,General Cargo,Hong Kong,2002,13536,21847,0,130,1
+25,9002425,Evergreen Galaxy,Container Ship,Bahamas,2018,10769,14324,6990,222,4
+26,9002522,Maersk Polaris,Bulk Carrier,Panama,2011,58376,76213,0,188,2
+27,9002619,ZIM Ranger,Tanker,Liberia,2003,5114,6986,0,151,1
+28,9002716,Evergreen Unity,Container Ship,Liberia,2014,1231,2011,1187,162,2
+29,9002813,Yang Ming Nebula,Container Ship,Bahamas,2020,25096,32110,14741,303,6
+30,9002910,CMA CGM Algeciras,Container Ship,Singapore,2006,9318,16927,10480,259,5
+31,9003007,COSCO Shanghai,Container Ship,Panama,2022,22560,36144,22473,384,6
+32,9003104,PIL Galaxy,Container Ship,Greece,2010,1283,1646,898,159,1
+33,9003201,CMA CGM Titan,Tanker,Bahamas,2002,7748,11089,0,108,1
+34,9003298,Hapag Horizon,General Cargo,China,2018,9128,13067,0,174,1
+35,9003395,Maersk Algeciras,Bulk Carrier,Cyprus,2018,29559,49179,0,174,2
+36,9003492,Evergreen Victory,Container Ship,Liberia,2021,11107,15052,8745,241,4
+37,9003589,MSC Shanghai,Bulk Carrier,Greece,2018,16837,24602,0,162,3
+38,9003686,COSCO Pacific,General Cargo,Hong Kong,2002,8078,13004,0,147,1
+39,9003783,HMM Excellence,Bulk Carrier,Malta,2020,77341,102538,0,201,2
+40,9003880,ZIM Polaris,General Cargo,Greece,2004,10556,13666,0,114,1
+41,9003977,CMA CGM Fortune,Container Ship,Greece,2006,10080,13208,6667,219,4
+42,9004074,Yang Ming Victory,General Cargo,Panama,2001,6076,8024,0,154,1
+43,9004171,MSC Singapore,RoRo Vessel,Singapore,2020,12787,18589,0,206,3
+44,9004268,HMM Eagle,Container Ship,Marshall Islands,2022,21877,31450,15090,307,6
+45,9004365,Hapag Pacific,Container Ship,Bahamas,2011,13246,21986,10326,257,5
+46,9004462,ZIM Polaris 46,RoRo Vessel,Bahamas,2013,44633,57117,0,169,3
+47,9004559,CMA CGM Apex,General Cargo,Singapore,2000,8109,10877,0,142,1
+48,9004656,ZIM Liberty,Container Ship,Bahamas,2022,1929,2890,1893,169,2
+49,9004753,Yang Ming Rotterdam,Container Ship,Liberia,2007,1730,2738,1675,167,2
+50,9004850,COSCO Rotterdam,Bulk Carrier,Panama,2012,53965,85282,0,192,2
+51,9004947,Maersk Victory,Container Ship,Cyprus,2008,1201,1641,910,159,1
+52,9005044,Hapag Condor,Tanker,Panama,2003,10529,17622,0,173,1
+53,9005141,MOL Genova,Container Ship,Cyprus,2017,6586,11607,6614,218,4
+54,9005238,PIL Endeavour,Bulk Carrier,Singapore,2003,36791,54363,0,177,3
+55,9005335,ONE Valencia,Bulk Carrier,Singapore,2017,50213,70108,0,185,1
+56,9005432,ZIM Apex,Bulk Carrier,Bahamas,2009,9422,15053,0,157,2
+57,9005529,Hapag Zephyr,Bulk Carrier,Greece,2010,52447,72954,0,186,2
+58,9005626,Yang Ming Meridian,Bulk Carrier,Liberia,2009,69043,97960,0,198,2
+59,9005723,Evergreen Vanguard 40,Container Ship,Liberia,2006,1169,1749,1047,160,2
+60,9005820,Yang Ming Algeciras,General Cargo,Bahamas,2018,7659,11371,0,149,1
+61,9005917,CMA CGM Ranger,Bulk Carrier,Greece,2003,25946,43683,0,171,3
+62,9006014,Yang Ming Titan,Bulk Carrier,Greece,2003,54413,75901,0,187,2
+63,9006111,PIL Endeavour 97,General Cargo,Greece,2019,18760,28569,0,164,1
+64,9006208,Yang Ming Meridian 96,General Cargo,Malta,2014,10254,13493,0,131,1
+65,9006305,HMM Sun,Bulk Carrier,Malta,2008,67440,108525,0,204,2
+66,9006402,ONE Endeavour,General Cargo,Marshall Islands,2002,5794,9534,0,119,1
+67,9006499,MOL Pioneer,Container Ship,Singapore,2013,4211,6999,3908,190,3
+68,9006596,Hapag Zephyr 90,Container Ship,Singapore,2018,2730,4371,2024,171,3
+69,9006693,Hapag Galaxy,RoRo Vessel,Singapore,2017,13580,22453,0,212,2
+70,9006790,Yang Ming Falcon,Container Ship,Marshall Islands,2021,12679,16681,8312,236,4
+71,9006887,PIL Galaxy 4,General Cargo,Singapore,2018,13414,23493,0,103,1
+72,9006984,CMA CGM Shanghai,Container Ship,Singapore,2008,3305,5211,2866,179,3
+73,9007081,COSCO Algeciras,Container Ship,Bahamas,2002,5095,6466,4209,193,3
+74,9007178,ZIM Atlas,RoRo Vessel,Panama,2020,6018,10033,0,181,1
+75,9007275,PIL Atlantic,Container Ship,Malta,2015,13866,20812,9620,250,4
+76,9007372,ONE Meridian,Bulk Carrier,Malta,2023,88273,116946,0,208,3
+77,9007469,Maersk Zephyr 4,General Cargo,Bahamas,2018,17654,27195,0,148,1
+78,9007566,Maersk Zephyr 89,RoRo Vessel,China,2007,44705,58625,0,188,1
+79,9007663,Maersk Triton,RoRo Vessel,Cyprus,2011,29129,51353,0,197,2
+80,9007760,MSC Algeciras,RoRo Vessel,Singapore,2003,23066,31736,0,208,2
+81,9007857,CMA CGM Cosmos,Tanker,Hong Kong,2008,18726,25182,0,168,1
+82,9007954,Hapag Zephyr 35,Container Ship,Hong Kong,2007,12030,18154,10709,261,5
+83,9008051,PIL Osprey,Bulk Carrier,Bahamas,2010,34298,57600,0,178,1
+84,9008148,ONE Victory,Container Ship,Bahamas,2019,9318,13720,7263,225,4
+85,9008245,Maersk Liberty,RoRo Vessel,Hong Kong,2015,16896,23749,0,210,2
+86,9008342,Yang Ming Falcon 12,Container Ship,Greece,2012,9473,14751,7508,228,4
+87,9008439,HMM Rotterdam,Container Ship,Malta,2023,9698,15700,7882,232,4
+88,9008536,Evergreen Horizon,RoRo Vessel,Hong Kong,2010,25779,43118,0,173,1
+89,9008633,COSCO Zephyr,Tanker,Bahamas,2016,19524,24555,0,136,1
+90,9008730,COSCO Voyager,Container Ship,Panama,2009,753,1343,846,158,1
+91,9008827,HMM Prosperity,Bulk Carrier,Panama,2004,76467,113669,0,206,2
+92,9008924,PIL Prosperity,Container Ship,Liberia,2014,2835,3705,2210,173,3
+93,9009021,Maersk Valencia,Container Ship,Malta,2018,6576,8736,5439,206,4
+94,9009118,Maersk Liberty 16,Bulk Carrier,Greece,2013,83596,118643,0,209,2
+95,9009215,Hapag Piraeus,General Cargo,China,2009,15210,24284,0,154,1
+96,9009312,MSC Osprey,Tanker,Malta,2003,21186,29993,0,126,1
+97,9009409,ZIM Orion,Container Ship,China,2005,6251,9434,6282,215,4
+98,9009506,Yang Ming Prosperity,Container Ship,Malta,2009,8220,13512,8719,240,4
+99,9009603,ZIM Zephyr,Bulk Carrier,Marshall Islands,2006,52361,86376,0,193,2
+100,9009700,COSCO Atlantic,Container Ship,Malta,2005,14908,22346,12364,278,5
+101,9009797,MOL Valencia,General Cargo,China,2016,14965,22694,0,163,1
+102,9009894,MSC Genova,RoRo Vessel,China,2019,11054,13985,0,179,1
+103,9009991,PIL Falcon,Tanker,Marshall Islands,2021,7746,13831,0,173,1
+104,9010088,Yang Ming Cosmos,Bulk Carrier,Hong Kong,2008,60440,91720,0,195,1
+105,9010185,Maersk Star,Container Ship,Hong Kong,2010,3224,5099,2428,175,3
+106,9010282,COSCO Sentinel,General Cargo,Malta,2017,3547,6202,0,158,1
+107,9010379,ONE Horizon,Tanker,Greece,2012,15618,21862,0,100,1
+108,9010476,Yang Ming Algeciras 7,Container Ship,Bahamas,2011,13023,17600,9083,244,4
+109,9010573,COSCO Nebula,Container Ship,China,2009,4980,8938,4860,200,3
+110,9010670,Evergreen Meridian,Container Ship,Liberia,2000,7261,9550,5763,210,4
+111,9010767,Yang Ming Horizon,Bulk Carrier,Malta,2004,67857,108926,0,204,2
+112,9010864,Hapag Star,Tanker,Bahamas,2007,11703,19967,0,170,1
+113,9010961,PIL Nova,RoRo Vessel,Greece,2004,16575,26104,0,203,3
+114,9011058,COSCO Eagle,Container Ship,Hong Kong,2009,19519,29502,14011,295,5
+115,9011155,ONE Singapore,Bulk Carrier,Bahamas,2017,43876,57176,0,178,2
+116,9011252,PIL Hamburg,Container Ship,Singapore,2013,1176,1563,784,158,1
+117,9011349,ZIM Ranger 20,Container Ship,Hong Kong,2001,2918,3803,1988,170,2
+118,9011446,Maersk Cosmos,General Cargo,Marshall Islands,2000,18708,28673,0,118,1
+119,9011543,Maersk Star 34,Container Ship,Greece,2022,3723,4880,2328,174,3
+120,9011640,Hapag Endeavour,Bulk Carrier,Bahamas,2015,13879,19705,0,159,3
+121,9011737,ZIM Vanguard,General Cargo,Liberia,2007,19405,29470,0,111,1
+122,9011834,ZIM Polaris 57,Container Ship,Cyprus,2009,14857,26342,15253,308,6
+123,9011931,ONE Genova,Container Ship,Liberia,2016,5833,9846,4792,199,3
+124,9012028,PIL Hamburg 80,Bulk Carrier,Malta,2015,20526,33758,0,166,3
+125,9012125,Yang Ming Victory 86,Container Ship,China,2014,20848,26515,17088,328,6
+126,9012222,COSCO Swift,Tanker,Bahamas,2022,10045,13195,0,158,1
+127,9012319,Hapag Star 14,Container Ship,Singapore,2018,4395,7047,3211,183,3
+128,9012416,COSCO Eagle 73,General Cargo,Malta,2023,4864,6607,0,177,1
+129,9012513,Evergreen Condor,RoRo Vessel,Marshall Islands,2007,35029,48690,0,182,2
+130,9012610,ZIM Polaris 81,Bulk Carrier,Marshall Islands,2009,13462,19373,0,159,3
+131,9012707,Maersk Prosperity,Container Ship,Cyprus,2013,1789,2327,1135,161,2
+132,9012804,HMM Nova,General Cargo,Malta,2005,10626,13420,0,161,1
+133,9012901,MOL Singapore,RoRo Vessel,Singapore,2014,13176,17224,0,178,3
+134,9012998,HMM Antwerp,Container Ship,Malta,2012,864,1346,849,158,1
+135,9013095,PIL Hamburg 82,General Cargo,China,2003,18107,27113,0,129,1
+136,9013192,HMM Endeavour,General Cargo,Hong Kong,2007,18587,26222,0,108,1
+137,9013289,MOL Excellence 84,Container Ship,Liberia,2004,389,579,338,153,1
+138,9013386,Evergreen Galaxy 18,Container Ship,Marshall Islands,2011,12432,16902,9425,248,4
+139,9013483,Hapag Ranger,Container Ship,Hong Kong,2015,7135,11103,7291,225,4
+140,9013580,Yang Ming Liberty,General Cargo,Cyprus,2003,18846,27468,0,147,1
+141,9013677,MSC Valencia,Container Ship,China,2003,20703,34333,21950,378,6
+142,9013774,MSC Titan,RoRo Vessel,Greece,2007,35822,59575,0,222,3
+143,9013871,Evergreen Zephyr,Container Ship,Malta,2007,3734,5343,2604,177,3
+144,9013968,CMA CGM Pacific,Container Ship,Bahamas,2005,1585,2864,1887,169,2
+145,9014065,PIL Endeavour 3,Container Ship,Hong Kong,2001,1968,2673,1431,164,2
+146,9014162,Yang Ming Antwerp,Container Ship,Greece,2003,3524,6284,2907,180,3
+147,9014259,COSCO Shanghai 83,Tanker,Liberia,2001,13587,20695,0,151,1
+148,9014356,Yang Ming Piraeus,Container Ship,China,2002,2493,4030,2607,177,3
+149,9014453,HMM Endeavour 49,Tanker,Singapore,2016,9917,14663,0,158,1
+150,9014550,Maersk Horizon,General Cargo,Bahamas,2020,15166,23066,0,127,1
+151,9014647,Hapag Singapore,RoRo Vessel,Malta,2012,9345,14231,0,190,2
+152,9014744,ONE Atlantic,Bulk Carrier,Liberia,2015,15013,26188,0,163,1
+153,9014841,MOL Antwerp,RoRo Vessel,Liberia,2017,28334,44804,0,221,1
+154,9014938,Hapag Rotterdam,General Cargo,China,2013,22675,28627,0,106,1
+155,9015035,COSCO Rotterdam 14,Bulk Carrier,Liberia,2006,47394,78201,0,189,1
+156,9015132,ONE Nebula,Container Ship,China,2008,14134,17810,8515,238,4
+157,9015229,PIL Vanguard,Bulk Carrier,Malta,2000,76662,101223,0,200,2
+158,9015326,MSC Apex,Container Ship,China,2009,23379,30463,20251,360,6
+159,9015423,ZIM Valencia,Container Ship,Singapore,2023,5606,8213,5251,204,4
+160,9015520,Hapag Shanghai,Container Ship,Liberia,2011,4705,6801,3328,184,3
+161,9015617,MSC Atlantic,Container Ship,Hong Kong,2019,462,647,383,153,1
+162,9015714,PIL Piraeus,Container Ship,China,2006,10999,19039,10932,263,5
+163,9015811,Yang Ming Cosmos 86,Container Ship,Bahamas,2007,4118,6851,4454,196,3
+164,9015908,CMA CGM Victory 38,Container Ship,Bahamas,2000,3939,6107,3763,189,3
+165,9016005,HMM Nebula,RoRo Vessel,Hong Kong,2011,42493,64476,0,155,1
+166,9016102,Maersk Endeavour,Bulk Carrier,Liberia,2018,64725,98904,0,199,2
+167,9016199,Hapag Falcon,Tanker,Cyprus,2005,19142,25254,0,158,1
+168,9016296,Maersk Genova,RoRo Vessel,Malta,2007,19506,34243,0,217,2
+169,9016393,MOL Singapore 29,Container Ship,Cyprus,2005,1014,1497,948,159,1
+170,9016490,ONE Ranger,RoRo Vessel,Marshall Islands,2007,14700,24775,0,175,1
+171,9016587,ZIM Atlas 23,Tanker,China,2020,15651,21191,0,159,1
+172,9016684,Yang Ming Vanguard,General Cargo,Cyprus,2018,16444,26069,0,179,1
+173,9016781,CMA CGM Piraeus,Container Ship,Liberia,2014,8852,13876,7250,225,4
+174,9016878,COSCO Shanghai 58,Container Ship,Liberia,2011,16473,20738,10628,260,5
+175,9016975,PIL Condor,Container Ship,Bahamas,2014,7286,9683,5336,205,4
+176,9017072,ONE Condor,Container Ship,Cyprus,2004,26657,34406,21881,377,6
+177,9017169,MOL Orion,Container Ship,China,2005,1116,1640,748,157,1
+178,9017266,CMA CGM Antwerp 48,General Cargo,Panama,2012,13238,18394,0,143,1
+179,9017363,ZIM Ranger 43,Container Ship,China,2003,10140,13873,8166,235,4
+180,9017460,CMA CGM Singapore,Container Ship,Singapore,2021,1664,2331,1358,164,2
+181,9017557,CMA CGM Condor,RoRo Vessel,Greece,2002,24622,32686,0,192,1
+182,9017654,Maersk Ranger,Bulk Carrier,Bahamas,2016,39217,62526,0,181,2
+183,9017751,ONE Sun,Container Ship,Greece,2004,1565,2722,1302,163,2
+184,9017848,MOL Cosmos,Container Ship,Marshall Islands,2010,12499,21238,11073,265,5
+185,9017945,MOL Osprey,RoRo Vessel,Bahamas,2005,6963,10863,0,202,2
+186,9018042,Yang Ming Osprey,Container Ship,Hong Kong,2023,14007,22328,11916,274,5
+187,9018139,Evergreen Antwerp,Bulk Carrier,Singapore,2018,56057,75513,0,187,3
+188,9018236,HMM Cosmos,Container Ship,Hong Kong,2005,13232,23502,11133,265,5
+189,9018333,ONE Nebula 14,RoRo Vessel,Malta,2016,19764,26681,0,160,3
+190,9018430,Yang Ming Nova,Container Ship,Panama,2013,841,1091,527,155,1
+191,9018527,Hapag Titan,Container Ship,Liberia,2011,1062,1908,1083,161,2
+192,9018624,MOL Ranger 43,RoRo Vessel,Marshall Islands,2004,45163,62379,0,210,1
+193,9018721,MOL Star,Container Ship,Greece,2000,18869,24869,14811,304,6
+194,9018818,MOL Condor,Container Ship,Singapore,2003,11484,20437,11946,274,5
+195,9018915,ZIM Osprey,Container Ship,Greece,2003,14976,27028,14094,296,5
+196,9019012,PIL Liberty,RoRo Vessel,Singapore,2009,29464,48292,0,195,2
+197,9019109,CMA CGM Sentinel,Bulk Carrier,Greece,2016,18817,23870,0,161,3
+198,9019206,HMM Nova 71,Container Ship,Panama,2015,933,1521,696,157,1
+199,9019303,ONE Atlas,Container Ship,Cyprus,2023,8755,11932,5849,210,4
+200,9019400,CMA CGM Phoenix,Container Ship,Hong Kong,2010,17161,23797,11434,269,5

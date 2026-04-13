@@ -1,0 +1,4 @@
+port_key,port_code,port_name,country_code,country_name,region,continent,un_locode,latitude,longitude,port_type,annual_capacity_teu
+1,USBAL,Port of Baltimore,US,United States,North America,Americas,US BAL,39.2713,-76.5786,Multi-purpose,1200000
+2,ESVLC,Port of Valencia,ES,Spain,Southern Europe,Europe,ES VLC,39.4429,-0.3245,Container Hub,8000000
+3,ITNAP,Port of Naples,IT,Italy,Southern Europe,Europe,IT NAP,40.8388,14.2649,Multi-purpose,1000000

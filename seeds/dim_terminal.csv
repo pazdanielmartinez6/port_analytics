@@ -1,0 +1,10 @@
+terminal_key,port_key,terminal_code,terminal_name,terminal_type,berths,max_draft_m,crane_count,annual_capacity_teu
+1,1,BAL-SGT,Seagirt Marine Terminal,Container,4,15.2,5,800000
+2,1,BAL-SLP,South Locust Point Terminal,RoRo,3,12.0,0,0
+3,1,BAL-DMT,Dundalk Marine Terminal,Multi-purpose,6,10.5,2,400000
+4,2,VLC-MSC,MSC Terminal Valencia,Container,6,16.0,12,4500000
+5,2,VLC-NCT,Noatum Container Terminal,Container,5,14.5,10,2800000
+6,2,VLC-GRM,Grimaldi Terminal Valencia,RoRo,3,11.0,0,0
+7,3,NAP-CNT,Conateco Container Terminal,Container,3,13.5,4,600000
+8,3,NAP-FGT,Flavio Gioia Terminal,RoRo,4,10.0,0,0
+9,3,NAP-MAT,Molo Angioino Terminal,Multi-purpose,2,9.5,1,400000

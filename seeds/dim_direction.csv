@@ -1,0 +1,5 @@
+direction_key,direction_code,direction_name,description
+1,IMP,Import,Goods arriving at port for inland distribution
+2,EXP,Export,Goods departing port for overseas destination
+3,TSH,Transshipment,Cargo transferred between vessels at the port
+4,CST,Coastal,Domestic coastal/short-sea movements

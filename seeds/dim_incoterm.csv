@@ -1,0 +1,12 @@
+incoterm_key,incoterm_code,incoterm_name,risk_transfer,freight_responsibility,insurance_responsibility
+1,EXW,Ex Works,Seller premises,Buyer,Buyer
+2,FCA,Free Carrier,Named place,Buyer,Buyer
+3,FAS,Free Alongside Ship,Origin port,Buyer,Buyer
+4,FOB,Free on Board,On board vessel,Buyer,Buyer
+5,CFR,Cost and Freight,On board vessel,Seller,Buyer
+6,CIF,Cost Insurance and Freight,On board vessel,Seller,Seller
+7,CPT,Carriage Paid To,Named destination,Seller,Buyer
+8,CIP,Carriage and Insurance Paid,Named destination,Seller,Seller
+9,DAP,Delivered at Place,Destination,Seller,Seller
+10,DPU,Delivered at Place Unloaded,After unloading,Seller,Seller
+11,DDP,Delivered Duty Paid,Buyer premises,Seller,Seller

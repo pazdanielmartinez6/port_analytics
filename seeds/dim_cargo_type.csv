@@ -1,0 +1,9 @@
+cargo_type_key,cargo_type_code,cargo_type_name,cargo_category,unit,is_hazmat_capable
+1,FCL,Full Container Load,Container,TEU,False
+2,LCL,Less-than-Container Load,Container,TEU,False
+3,REF,Refrigerated Cargo,Container,TEU,False
+4,DRY,Dry Bulk,Bulk,Tonnes,False
+5,LIQ,Liquid Bulk,Bulk,Tonnes,True
+6,ROR,Roll-on/Roll-off,RoRo,Units,False
+7,BBK,Break Bulk,General,Tonnes,False
+8,HAZ,Hazardous Cargo,Container,TEU,True

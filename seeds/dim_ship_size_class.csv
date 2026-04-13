@@ -1,0 +1,7 @@
+ship_size_class_key,class_name,min_teu,max_teu,min_dwt,max_dwt,description
+1,Feeder,0,999,1000,15000,Small feeder vessels serving regional/short-sea routes
+2,Small Feeder,1000,1999,15000,25000,Small to medium feeder vessels
+3,Regional,2000,4999,25000,60000,Regional and inter-regional trade vessels
+4,Post-Panamax,5000,9999,60000,120000,Large ocean-going post-Panamax vessels
+5,New Panamax,10000,14499,120000,165000,New Panamax / neo-Panamax class vessels
+6,Ultra Large,14500,24000,165000,240000,Ultra large container vessels (ULCV / VLCS)

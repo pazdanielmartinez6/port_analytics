@@ -1,0 +1,31 @@
+country_key,country_code,country_name,region,continent
+1,US,United States,North America,Americas
+2,CN,China,East Asia,Asia
+3,DE,Germany,Western Europe,Europe
+4,GB,United Kingdom,Northern Europe,Europe
+5,JP,Japan,East Asia,Asia
+6,KR,South Korea,East Asia,Asia
+7,IN,India,South Asia,Asia
+8,SG,Singapore,Southeast Asia,Asia
+9,NL,Netherlands,Western Europe,Europe
+10,BE,Belgium,Western Europe,Europe
+11,FR,France,Western Europe,Europe
+12,IT,Italy,Southern Europe,Europe
+13,ES,Spain,Southern Europe,Europe
+14,GR,Greece,Southern Europe,Europe
+15,TR,Turkey,Middle East,Asia
+16,AE,UAE,Middle East,Asia
+17,SA,Saudi Arabia,Middle East,Asia
+18,MA,Morocco,North Africa,Africa
+19,EG,Egypt,North Africa,Africa
+20,ZA,South Africa,Sub-Saharan Africa,Africa
+21,BR,Brazil,South America,Americas
+22,MX,Mexico,North America,Americas
+23,CA,Canada,North America,Americas
+24,AU,Australia,Oceania,Oceania
+25,MY,Malaysia,Southeast Asia,Asia
+26,TH,Thailand,Southeast Asia,Asia
+27,VN,Vietnam,Southeast Asia,Asia
+28,PK,Pakistan,South Asia,Asia
+29,ID,Indonesia,Southeast Asia,Asia
+30,PL,Poland,Eastern Europe,Europe

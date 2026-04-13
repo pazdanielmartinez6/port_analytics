@@ -1,0 +1,16 @@
+carrier_key,carrier_code,carrier_name,alliance,hq_country
+1,MSC,Mediterranean Shipping Company,MSC/TIL,Switzerland
+2,MAE,Maersk Line,Gemini,Denmark
+3,CMA,CMA CGM,Ocean Alliance,France
+4,EVG,Evergreen Marine,Ocean Alliance,Taiwan
+5,CSC,COSCO Shipping Lines,Ocean Alliance,China
+6,HPL,Hapag-Lloyd,Gemini,Germany
+7,ONE,Ocean Network Express,Premier Alliance,Japan
+8,ZIM,ZIM Integrated Shipping,Independent,Israel
+9,YML,Yang Ming Marine Transport,Premier Alliance,Taiwan
+10,GRM,Grimaldi Lines,Independent,Italy
+11,PIL,Pacific International Lines,Independent,Singapore
+12,COE,COLI Ocean Express,Independent,China
+13,HMM,HMM Co.,Premier Alliance,South Korea
+14,ARK,Arkas Container Transport,Independent,Turkey
+15,SHL,Sealand (Maersk feeder),Gemini,Denmark

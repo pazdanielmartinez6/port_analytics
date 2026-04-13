@@ -1,0 +1,73 @@
+# docker-compose.yml
+# ─────────────────────────────────────────────────────────────
+# Port Operations Analytics Warehouse
+# Services:
+#   postgres   — PostgreSQL 16 analytical database
+#   api        — FastAPI TOS service (port 8000)
+#
+# Quick start:
+#   docker-compose up -d
+#   python scripts/generate_data.py
+#   python scripts/load_data.py
+#   curl -H "X-API-Key: changeme" http://localhost:8000/docs
+# ─────────────────────────────────────────────────────────────
+
+version: "3.9"
+
+services:
+
+  # ── PostgreSQL 16 ─────────────────────────────────────────
+  postgres:
+    image: postgres:16-alpine
+    container_name: port_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB:       ${POSTGRES_DB:-port_analytics}
+      POSTGRES_USER:     ${POSTGRES_USER:-portadmin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-portpass123}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      # Persist data across container restarts
+      - postgres_data:/var/lib/postgresql/data
+      # Auto-run schema files in alphabetical order on first boot
+      - ./schema:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-portadmin} -d ${POSTGRES_DB:-port_analytics}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ── FastAPI TOS Service ────────────────────────────────────
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    container_name: port_api
+    restart: unless-stopped
+    environment:
+      # Auth
+      API_KEY:           ${API_KEY:-changeme-set-in-dotenv}
+      # Database — use service name as host inside Docker network
+      POSTGRES_HOST:     postgres
+      POSTGRES_PORT:     5432
+      POSTGRES_DB:       ${POSTGRES_DB:-port_analytics}
+      POSTGRES_USER:     ${POSTGRES_USER:-portadmin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-portpass123}
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      # Mount api/ directory for live-reload in development
+      - ./api:/app/api:ro
+    command: >
+      uvicorn api.main:app
+        --host 0.0.0.0
+        --port 8000
+        --reload
+
+volumes:
+  postgres_data:
+    driver: local
